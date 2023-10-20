@@ -1,0 +1,59 @@
+body {
+    background: rgb(230, 136, 40);
+    background: linear-gradient(90deg, rgba(230, 136, 40, 1) 16%, rgba(215, 195, 49, 1) 58%,
+    rgba(255, 253, 0, 1) 100%);
+}
+
+#titulos {
+    font-family: "Autour One", sans-serif;
+    margin-left: 2rem;
+}
+
+#head {
+
+    display: grid;
+    grid-template-columns: 10rem 1fr;
+    color: b;
+    margin: 3rem;
+    text-align: center;
+}
+
+img {
+    margin-left: 17rem;
+    border-radius: 1rem;
+    width: 8rem;
+}
+
+#text1 {
+
+    /* background-color: aqua; */
+    margin-left: 5rem;
+    width: 60rem;
+
+}
+
+/* #table1 { */
+
+    /* background-color: rgb(35, 179, 129); */
+    /* margin-left: 5rem; */
+    /* width: 60rem; */
+/* } */
+
+tr,
+td,
+th {
+    background-color: rgb(35, 179, 129);
+    border-bottom: 1px solid red;
+    margin: 2rem;
+    width: 20%;
+    text-align: center;
+}
+
+
+#text3 {
+
+    background-color: rgb(255, 0, 140);
+    margin-left: 2rem;
+    width: 20rem;
+
+}
